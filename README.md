@@ -1,4 +1,4 @@
-# DEVELOPMENT OF A MACHINE LEARNING-BASED LOAD SHEDDING SYSTEM FOR OPTIMIZED ENERGY MANAGEMENT WITH UNIVERSITY OF LAGOS AS A CASE STUDY  
+# Development of a Machine Learning-Based Load Shedding System for Optimized Energy Manangement with University of Lagos as a Case Study
 
 ## 1.1 Background of Study  
 Nigeria's electricity sector is characterized by a complex interplay of challenges that have resulted in a persistent energy crisis. These challenges include a significant deficit in generation capacity compared to national demand, aging and poorly maintained transmission and distribution infrastructure, and inefficient management practices. This has led to frequent power outages, load shedding, and an unreliable grid, significantly hindering economic growth, industrial development, and social well-being. The impact of these power sector challenges is felt across all sectors of the Nigerian economy, from manufacturing and agriculture to healthcare and education.  
